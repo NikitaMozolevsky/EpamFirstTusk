@@ -1,0 +1,98 @@
+2022-01-23 19:05:49 [main] ERROR edu.epam.firsttask.main.Main - first log
+2022-01-23 19:05:49 [main] ERROR edu.epam.firsttask.main.Main - error
+2022-01-24 20:19:47 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:19:47 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:19:47 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:19:47 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:19:47 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:26:46 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:26:46 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:26:46 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:27:22 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:27:22 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:27:26 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:27:26 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:27:26 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:27:26 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:27:26 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:27:51 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:27:51 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:27:51 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:27:51 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:27:51 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:27:55 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:27:55 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:27:55 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:28:22 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:28:22 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:28:27 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:28:27 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:28:27 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:29:46 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:29:46 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:29:49 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:29:49 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:29:49 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:31:00 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:31:00 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:31:39 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:31:39 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:31:39 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:31:39 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:31:39 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:32:43 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:32:43 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:32:43 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:32:43 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:32:43 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:32:48 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:32:48 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:32:48 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:32:48 [main] INFO  edu.epam.firsttask.main.Main - area = 3.141592653589793 ;
+2022-01-24 20:32:48 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 6.283185307179586 ;
+2022-01-24 20:36:56 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:36:56 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:36:56 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:37:45 [main] INFO  edu.epam.firsttask.main.Main - area = 314.1592653589793 ;
+2022-01-24 20:37:45 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 62.83185307179586 ;
+2022-01-24 20:37:48 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:37:48 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:37:48 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:37:48 [main] INFO  edu.epam.firsttask.main.Main - area = 314.1592653589793 ;
+2022-01-24 20:37:48 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 62.83185307179586 ;
+2022-01-24 20:39:09 [main] ERROR edu.epam.firsttask.validator.Checker - radius cannot be less than or equal to zero
+2022-01-24 20:39:09 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:39:09 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 20:39:09 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 20:39:09 [main] INFO  edu.epam.firsttask.main.Main - area = 314.1592653589793 ;
+2022-01-24 20:39:09 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 62.83185307179586 ;
+2022-01-24 21:07:33 [main] ERROR edu.epam.firsttask.validator.Checker - radius cannot be less than or equal to zero
+2022-01-24 21:07:33 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 21:07:33 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 21:07:33 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 21:07:33 [main] INFO  edu.epam.firsttask.main.Main - area = 314.1592653589793 ;
+2022-01-24 21:07:33 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 62.83185307179586 ;
+2022-01-24 21:07:33 [main] INFO  edu.epam.firsttask.solution.Solution - X and Y axes intersect
+2022-01-24 21:07:33 [main] INFO  edu.epam.firsttask.solution.Solution - X and Y axes intersect
+2022-01-24 21:07:33 [main] INFO  edu.epam.firsttask.main.Main - result = X and Y axes intersect ;
+2022-01-24 21:08:18 [main] ERROR edu.epam.firsttask.validator.Checker - radius cannot be less than or equal to zero
+2022-01-24 21:08:18 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 21:08:18 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 21:08:18 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 21:08:18 [main] INFO  edu.epam.firsttask.main.Main - area = 314.1592653589793 ;
+2022-01-24 21:08:18 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 62.83185307179586 ;
+2022-01-24 21:08:18 [main] INFO  edu.epam.firsttask.main.Main - result = X and Y axes intersect ;
+2022-01-24 21:08:59 [main] ERROR edu.epam.firsttask.validator.Checker - radius cannot be less than or equal to zero
+2022-01-24 21:08:59 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 21:08:59 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-24 21:08:59 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-24 21:08:59 [main] INFO  edu.epam.firsttask.main.Main - area = 314.1592653589793 ;
+2022-01-24 21:08:59 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 62.83185307179586 ;
+2022-01-24 21:10:30 [main] INFO  edu.epam.firsttask.main.Main - result = X and Y axes intersect ;
+2022-01-25 19:47:13 [main] ERROR edu.epam.firsttask.validator.Checker - radius cannot be less than or equal to zero
+2022-01-25 19:47:13 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-25 19:47:13 [main] ERROR edu.epam.firsttask.validator.Checker - number format exception
+2022-01-25 19:47:13 [main] ERROR edu.epam.firsttask.validator.Checker - wrong amount of data per line
+2022-01-25 19:47:13 [main] INFO  edu.epam.firsttask.main.Main - area = 314.1592653589793 ;
+2022-01-25 19:47:13 [main] INFO  edu.epam.firsttask.main.Main - perimeter = 62.83185307179586 ;
+2022-01-25 19:47:13 [main] INFO  edu.epam.firsttask.main.Main - result = X and Y axes intersect ;
